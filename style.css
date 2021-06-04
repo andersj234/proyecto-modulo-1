@@ -1,322 +1,322 @@
 #contenedor{
-    max-width: 100%;
+  max-width: 100%;
 }
 footer{
-    background-color: gray;
+  background-color: gray;
 }
 body{
-    display: flex;
-    justify-content: center;
+  display: flex;
+  justify-content: center;
 }
 #titulo{
-    background-color: royalblue;
-    color: red;
-    text-align: center;
-    width: 300px;
-    border-radius: 10px;
-    padding: 5px;
+  background-color: royalblue;
+  color: red;
+  text-align: center;
+  width: 300px;
+  border-radius: 10px;
+  padding: 5px;
 }
 .tituloPrincipal{
-    display: flex;
-    justify-content: center;
+  display: flex;
+  justify-content: center;
 
 }
 .barraNavegacion{
-    display: flex;
-    justify-content: center;
+  display: flex;
+  justify-content: center;
 }
 .barraNavegacion nav{
-    background-color: lightblue;
-    margin: 30px 30px;
-    border-radius: 10px;
-    padding: 20px;
-    color: black;
-    text-decoration: none; 
-    width: 90%;
-    display: flex;
-    justify-content: space-evenly;
+  background-color: lightblue;
+  margin: 30px 30px;
+  border-radius: 10px;
+  padding: 20px;
+  color: black;
+  text-decoration: none; 
+  width: 90%;
+  display: flex;
+  justify-content: space-evenly;
 
 }
 
 .barraNavegacion2{
-    display: flex;
-    justify-content: center;
+  display: flex;
+  justify-content: center;
 }
 .barraNavegacion2 nav{
-    background-color: lightgreen;
-    margin: 30px 30px;
-    border-radius: 10px;
-    padding: 20px;
-    color: black;
-    text-decoration: none; 
-    display: flex;
-    justify-content: space-evenly;
-    width: 90%;
+  background-color: lightgreen;
+  margin: 30px 30px;
+  border-radius: 10px;
+  padding: 20px;
+  color: black;
+  text-decoration: none; 
+  display: flex;
+  justify-content: space-evenly;
+  width: 90%;
 }
 .barraNavegacion2 a{
-    text-decoration: none;
-    margin-top: 10px;
-    padding: 10px;
-    color: greenyellow;
-    margin-right: 15px;
-    background-color: blueviolet;
-    border-radius: 10px;
+  text-decoration: none;
+  margin-top: 10px;
+  padding: 10px;
+  color: greenyellow;
+  margin-right: 15px;
+  background-color: blueviolet;
+  border-radius: 10px;
 }
 .barraNavegacion3{
-    display: flex;
-    justify-content: center;
+  display: flex;
+  justify-content: center;
 }
 .barraNavegacion3 nav{
-    background-color: lightcoral;
-    margin: 30px 30px;
-    border-radius: 10px;
-    padding: 20px;
-    color: black;
-    text-decoration: none; 
-    width: 90%;
-    display: flex;
-    justify-content: space-evenly;
+  background-color: lightcoral;
+  margin: 30px 30px;
+  border-radius: 10px;
+  padding: 20px;
+  color: black;
+  text-decoration: none; 
+  width: 90%;
+  display: flex;
+  justify-content: space-evenly;
 }
 .barraNavegacion3 a{
-    text-decoration: none;
-    margin-top: 10px;
-    padding: 10px;
-    color: greenyellow;
-    margin-right: 15px;
-    background-color: blueviolet;
-    border-radius: 10px;
+  text-decoration: none;
+  margin-top: 10px;
+  padding: 10px;
+  color: greenyellow;
+  margin-right: 15px;
+  background-color: blueviolet;
+  border-radius: 10px;
 }
 
 .barraNavegacion a{
-    text-decoration: none;
-    margin-top: 10px;
-    padding: 10px;
-    color: greenyellow;
-    margin-right: 15px;
-    background-color: blueviolet;
-    border-radius: 10px;
+  text-decoration: none;
+  margin-top: 10px;
+  padding: 10px;
+  color: greenyellow;
+  margin-right: 15px;
+  background-color: blueviolet;
+  border-radius: 10px;
 }
 a:hover{
-    color: red;
+  color: red;
 }
 
 .imgcontainer{
-    display: flex;
-    justify-content: center;
+  display: flex;
+  justify-content: center;
 }
 .img{
-    display: flex;
-    justify-content: center;
-    background-color: lightgoldenrodyellow;
-    padding: 20px;
-    width: 50%;
+  display: flex;
+  justify-content: center;
+  background-color: lightgoldenrodyellow;
+  padding: 20px;
+  width: 50%;
 }
 #tituloyboton{
-    display: grid;
-    justify-content: center;
+  display: grid;
+  justify-content: center;
 }
 
 #patata{
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
 }
 
 #imagenPokemon{
-    width: 80%;
+  width: 80%;
 }
 .explicacion{
-    display: flex;
-    justify-content: space-around;
-    align-items: center ;
-    margin: 20px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center ;
+  margin: 20px;
 }
 #jugar{
-    width: 80%;
-    margin: 20px 20px 20px 20px;
+  width: 80%;
+  margin: 20px 20px 20px 20px;
 }
 .buscador{
-    margin: 10px;
+  margin: 10px;
 }
 #tendencias{
-    display: grid;
-    justify-content: center;
+  display: grid;
+  justify-content: center;
 }
 
 .buscador{
-    display: flex;
-    justify-content: flex-end;
+  display: flex;
+  justify-content: flex-end;
 }
 footer{
-    margin:-8px;
-    padding: 2px;
+  margin:-8px;
+  padding: 2px;
 }
 
 #contacto{
-    text-align: center;
+  text-align: center;
 }
 
 .politicas{
-    text-align: center;
+  text-align: center;
 }
 
 a{
-    text-decoration: none;
-    color:red;
+  text-decoration: none;
+  color:red;
 }
 
 .informacion{
-    display: flex;
-    justify-content: space-evenly;
+  display: flex;
+  justify-content: space-evenly;
 }
 
 .informacionDeTodo{
-    display: flex;
-    
+  display: flex;
+  
 }
 .manolo{
-    display: flex;
-    justify-content: space-between;
-    margin:10px;
+  display: flex;
+  justify-content: space-between;
+  margin:10px;
 }
 
 .cajaboton{
-    display: flex;
-    justify-content: center;
-    margin: 5em;
+  display: flex;
+  justify-content: center;
+  margin: 5em;
 }
 
 .boton{
-    display: flex;
-    justify-content: center;
+  display: flex;
+  justify-content: center;
 }
 
 .resultados h2{
-    display: flex;
-    justify-content: center;
+  display: flex;
+  justify-content: center;
 }
 
 .resultados p{
-    border: solid;
-    margin: 20px;
-    padding: 10px;
+  border: solid;
+  margin: 20px;
+  padding: 10px;
 }
 .articulo1{
-    display: flex;
+  display: flex;
 }
 
 .articulo2{
-    display: flex;
-    align-items: flex-start;
-    margin: 20px;
-   
+  display: flex;
+  align-items: flex-start;
+  margin: 20px;
+ 
 }
 
 .articulo1 img{
-    max-width: 500px;
-    height: auto;
+  max-width: 500px;
+  height: auto;
 }
 .articulo2 img{
-    max-width: 500px;
-    height: auto;
+  max-width: 500px;
+  height: auto;
 }
 .articulo2Article{
-    display: flex;
+  display: flex;
 justify-content: center;
 flex-wrap: wrap;
 margin-left: 10px;
 }
 
 .articulo{
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    margin-left: 10px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-left: 10px;
 }
 #cartasFavoritas p{
-    border: solid;
-    margin: 20px;
-    padding: 10px;
+  border: solid;
+  margin: 20px;
+  padding: 10px;
 }
 
 #imagenDeCarta{
-    width: 30%;
+  width: 30%;
 }
 
 #imagenKadabra{
-    width: 80%;
+  width: 80%;
 }
 
 
 
 @media (min-width:1500px) and(max-width:1920px){
-    #contenedor{
-        max-width: 100%;
-    }
-    
+  #contenedor{
+      max-width: 100%;
+  }
+  
 }
 @media (max-width: 1499px) {
-    #contenedor{
-        max-width: 100%;
-    }
-    .explicacion{
-        display: flex;
-        flex-wrap: wrap;
-    }
+  #contenedor{
+      max-width: 100%;
+  }
+  .explicacion{
+      display: flex;
+      flex-wrap: wrap;
+  }
 
-    .articulo1{
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: center;
-    }
-    .articulo2{
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: center;
-    }
+  .articulo1{
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+  }
+  .articulo2{
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+  }
 }
 
 @media (min-width: 100px)and(max-width: 599px) {    
-    #contenedor{
-        max-width: 100%;
-    }
-    #informacionDeTodo{
-        flex-direction: column;
-    }
-    .imagenKadabra{
-        width: 60%;
-    }
-    #imagenDeCarta{
-        width: 100%;
-    }
-    .articulo2{
-        display: flex;
-    flex-wrap: wrap;
-    margin: 20px;
-    }
-    
+  #contenedor{
+      max-width: 100%;
+  }
+  #informacionDeTodo{
+      flex-direction: column;
+  }
+  .imagenKadabra{
+      width: 60%;
+  }
+  #imagenDeCarta{
+      width: 100%;
+  }
+  .articulo2{
+      display: flex;
+  flex-wrap: wrap;
+  margin: 20px;
+  }
+  
 
 }
 
 
 #busqueda{
-    display: flex;
-    justify-content: space-evenly;
-    flex-wrap: wrap;
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
 }
 
 .carta{
-    padding: 10px;
-    border: lightblue 3px solid;
-    border-radius: 5px;
-    margin: 10px;
-    text-align: justify;
+  padding: 10px;
+  border: lightblue 3px solid;
+  border-radius: 5px;
+  margin: 10px;
+  text-align: justify;
 }
 
 .carta img{
-    width: max-content;
+  width: max-content;
 }
 
 .carta img:hover{
-    transform: rotate(5deg);
+  transform: rotate(5deg);
 }
